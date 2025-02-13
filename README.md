@@ -5,9 +5,7 @@
 I am majoring in computer science and I minor in sociology 
 My interest lie in tech, cybersecurity and motorsport
 
-Let's Connect<br/>
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stephanie-abundio/)
-&nbsp;
+
 
 
 
