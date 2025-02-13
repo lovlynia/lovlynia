@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**lovlynia/lovlynia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ![ompa4](https://github.com/user-attachments/assets/bddac7a1-e7d6-499c-8a03-4312d2ab8736) Hi There 
 
-Here are some ideas to get you started:
+### I'm Stephanie,
+I am majoring in computer science and I minor in sociology 
+My interest lie in tech, cybersecurity and motorsport
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's Connect<br/>
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stephanie-abundio/)
+&nbsp;
+
+
+
+
+
+
+
+
+
