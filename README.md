@@ -3,7 +3,6 @@
 
 ### I'm Stephanie,
 I am majoring in computer science and minor in sociology<br>
-My interest lie in tech, cybersecurity and motorsport<br>
 
 Let's Connect!<br>
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stephanie-abundio/)
