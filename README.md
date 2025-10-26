@@ -1,5 +1,5 @@
 
-# ![ompa4](https://github.com/user-attachments/assets/bddac7a1-e7d6-499c-8a03-4312d2ab8736) Hi There 
+# Hi There 
 
 ### I'm Stephanie,
 I am majoring in computer science and minor in sociology<br>
