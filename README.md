@@ -3,8 +3,13 @@
 
 ### Hi There!  I'm Stephanie,
 I am majoring in computer science and minor in sociology at Central Connecticut State University <br>
+Too many ideas that I've learned not to jump ship on each one but build them up to perfection<br>
 
-Here I keep a record update on any projects I am currently working on and anything I have finished developing!
+
+I keep a record update on any projects I am currently working on and anything I have finished developing!
+So more repositories to come!<br>
+
+Outside of studies, I'm interested in the developments of tech such as quantum computing and AI. I love to crochet, play video games, make music and pay attention to motorsports<br>
 
 
 Let's Connect!<br>
