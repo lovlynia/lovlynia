@@ -1,5 +1,5 @@
 
-# Hi There 
+# Stephanie's Organized Portfolio
 
 ### I'm Stephanie,
 I am majoring in computer science and minor in sociology<br>
