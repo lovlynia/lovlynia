@@ -2,7 +2,7 @@
 # Stephanie's Organized Portfolio
 
 ### Hi There!  I'm Stephanie,
-I am majoring in computer science and minor in sociology at Central Connecticut State University <br>
+I am majoring in computer science with a minor in sociology at Central Connecticut State University <br>
 Too many ideas that I've learned not to jump ship on each one but build them up to perfection<br>
 
 
