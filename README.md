@@ -3,7 +3,7 @@
 
 ### Hi There!  I'm Stephanie,
 I am majoring in computer science with a minor in sociology at Central Connecticut State University <br>
-Too many ideas that I've learned not to jump ship on each one but build them up to perfection<br>
+Too many ideas that I've learned not to jump ship on each one but build them up diligently
 
 
 I keep a record update on any projects I am currently working on and anything I have finished developing!
