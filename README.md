@@ -1,5 +1,5 @@
 
-# Stephanie's Organized Portfolio
+# Stephanie's Coding Storage Box
 
 ### Hi There!  I'm Stephanie,
 I am majoring in computer science with a minor in sociology at Central Connecticut State University <br>
