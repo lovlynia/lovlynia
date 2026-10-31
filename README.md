@@ -2,8 +2,8 @@
 # Stephanie's Coding Storage Box
 
 ### Hi There!  I'm Stephanie,
-I am majoring in computer science with a minor in sociology at Central Connecticut State University <br>
-Too many ideas that I've learned not to jump ship on each one but build them up diligently
+I newly comp sci graduate feel free to look at my GitHub but at the moment I do believe my portfolio is live and running so feel free to stop by there as well <br>
+
 
 
 I keep a record update on any projects I am currently working on and anything I have finished developing!
