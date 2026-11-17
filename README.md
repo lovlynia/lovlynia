@@ -2,7 +2,8 @@
 # Stephanie's Coding Storage Box
 
 ### Hi There!  I'm Stephanie,
-I newly comp sci graduate feel free to look at my GitHub my portfolio is under construction at this time  <br>
+I newly comp sci graduate feel free to look at my GitHub my portfolio is not under construction at this time  <br>
+https://lovlynia.github.io/portfolio/about <-- its here :) kinda semi under construction
 
 
 
